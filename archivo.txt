@@ -1,3 +1,4 @@
 Primera línea desde AWS
 Segunda línea desde máquina B
 Cambio diferente en archivo.txt desde main
+Cambio en la rama-conflicto2
