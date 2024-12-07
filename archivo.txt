@@ -1,3 +1,6 @@
 Primera línea desde AWS
 Segunda línea desde máquina B
+<<<<<<< HEAD
 Cambio en la rama-conflicto
+=======
+>>>>>>> rama-conflicto2
